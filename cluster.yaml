@@ -1,0 +1,8 @@
+__default__:
+    time: "1:00:00"
+    nodes: 1
+    ntasks-per-node: 1
+    partition: "htc"
+    job-name: "default"
+
+
